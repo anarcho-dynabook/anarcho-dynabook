@@ -2,6 +2,7 @@
 
 |Key|Value|
 |-|-|
-|Thoughts| Anarchism, Libertarian Communism|
-|Researches| Bakunin-ism, Stirner's Egoism, Laozi's Taoism|
+|Thoughts|Anarchism, Libertarian Communism|
+|Researches|Bakunin-ism, Stirner's Egoism, Laozi's Taoism|
+|Interests|Cypherpunk, Blockchain, Dark web, Free(illegal) upload|
 |Technologies|Peer to Peer network programming|
